@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.6.0
+Built-By: ribeiro
+Build-Jdk: 11.0.4
+Implementation-Title: swagger-spring
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: io.swagger
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/swagger-spring
+ /
+

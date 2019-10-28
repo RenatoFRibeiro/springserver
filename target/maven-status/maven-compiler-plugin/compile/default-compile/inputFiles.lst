@@ -1,0 +1,15 @@
+/home/ribeiro/springserver/src/main/java/io/swagger/model/Employees.java
+/home/ribeiro/springserver/src/main/java/io/swagger/Swagger2SpringBoot.java
+/home/ribeiro/springserver/src/main/java/io/swagger/api/EmployeesApiController.java
+/home/ribeiro/springserver/src/main/java/io/swagger/api/ApiResponseMessage.java
+/home/ribeiro/springserver/src/main/java/io/swagger/api/ApiException.java
+/home/ribeiro/springserver/src/main/java/io/swagger/configuration/HomeController.java
+/home/ribeiro/springserver/src/main/java/io/swagger/configuration/JacksonConfiguration.java
+/home/ribeiro/springserver/src/main/java/io/swagger/RFC3339DateFormat.java
+/home/ribeiro/springserver/src/main/java/io/swagger/HRService.java
+/home/ribeiro/springserver/src/main/java/io/swagger/api/NotFoundException.java
+/home/ribeiro/springserver/src/main/java/io/swagger/api/EmployeesApi.java
+/home/ribeiro/springserver/src/main/java/io/swagger/api/ApiOriginFilter.java
+/home/ribeiro/springserver/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/home/ribeiro/springserver/src/main/java/io/swagger/model/Employee.java
+/home/ribeiro/springserver/src/main/java/io/swagger/configuration/CustomInstantDeserializer.java
