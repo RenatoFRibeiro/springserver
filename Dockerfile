@@ -1,4 +1,5 @@
 FROM openjdk:8-jdk-alpine
+MAINTAINER Renato Ribeiro
 VOLUME /tmp
 ARG JAR_FILE
 COPY ./target/swagger-spring-1.0.0.jar /build/swagger-spring-1.0.0.jar
